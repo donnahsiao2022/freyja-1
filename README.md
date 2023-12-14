@@ -236,3 +236,4 @@ docker run -p 3005:3005 -d freyja:v1
 - [Node.js 實戰密技大統整（套件運用、金流、第三方登入、雲服務、Docker）](https://www.casper.tw/development/2023/10/15/ironman-collection/)
 - [《Node.js 不負責系列：把前端人員當作後端來用，就算是前端也能嘗試寫的後端～原來 Node.js 可以做這麼多事～》](https://ithelp.ithome.com.tw/articles/10339734)
 - [被迫吃芒果的前端工程師](https://israynotarray.com/nodejs/20220416/2123631571/)
+# freyja
